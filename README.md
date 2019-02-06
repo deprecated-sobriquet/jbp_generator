@@ -5,7 +5,7 @@
 
 - Based on u/GanjhisKhan's  post on r/Jordan_Peterson_Memes 2019.02.05 
      - he's trapped in an archetypical story of profound significance, please send help
-- [Original Post](www.reddit.com/r/Jordan_Peterson_Memes/comments/anmawh/jp_conspiracy_theory_starterpack)
+- [Original Post](https://www.reddit.com/r/Jordan_Peterson_Memes/comments/anmawh/jp_conspiracy_theory_starterpack)
 - Special mention to u/phantomdancer42 for "and that's that!"
 
 ## CODE BY

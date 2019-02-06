@@ -25,6 +25,10 @@
 
 ~$ python jbp_gen.py
 
+>  Social justice types want to annihilate Carl Jung's legacy because of their low serotonin levels and poor posture and that's that!
+
+
+
 
 
 

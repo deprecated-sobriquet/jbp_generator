@@ -18,10 +18,10 @@ import random
 """ Jordan B. Peterson Conspiracy Theory Genarator"""
 
 
-villians = ['Postmodern Noemarxists', \
-            'Feminists (who secretly crave domination', \
+villians = ['Postmodern Neomarxists', \
+            'Feminists (who secretly crave domination)', \
             'Leftist academics', \
-            'Dangerous idealogues', \
+            'Dangerous ideologues', \
             'Derrida and Foucault', \
             'Indoctrinated students', \
             'Social justice types', \

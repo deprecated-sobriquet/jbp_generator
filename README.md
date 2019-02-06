@@ -17,7 +17,15 @@
 - Code is free to use and modify
 - Give credit where credit's due
 
+## REQUIREMENTS
+
+- Python 3
+
 ## USAGE
+
+~$ python jbp_gen.py
+
+
 
 
 
